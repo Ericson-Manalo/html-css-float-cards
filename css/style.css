@@ -31,6 +31,7 @@ body{
 
 p.task{
     font-size: 14px;
+    padding: 10px;
 }
 
 div.black-box{
@@ -54,12 +55,13 @@ img{
 
 h2{
     font-size: 14px;
-
+    margin-top:15px
 }
 
 a{
     text-decoration: none;
     color: rgb(0, 153, 255);
+    margin-top: 10px;
 }
 
 h1{
