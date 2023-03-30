@@ -29,20 +29,19 @@ body{
     float:right;
 }
 
+p.task{
+    font-size: 14px;
+}
 
-div{
+div.black-box{
     width: 350px;
     background-color: black;
     height: 100px;
     margin: 20px;
+    color: white;
 }
 
-h1{
-    color: red;
-    margin: 60px;
-}
-
-p{
+.main-text{
     font-size: 14px;
     margin-bottom: 30px;
 }
@@ -50,4 +49,20 @@ p{
 img{
     width: 100px;
     height: 100px;
+    margin-right: 10px;
+}
+
+h2{
+    font-size: 14px;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+}
+
+h1{
+    color: red;
+    margin: 60px;
 }
