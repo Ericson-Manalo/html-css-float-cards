@@ -7,8 +7,7 @@
 
 .main-container{
     width: 1200px;
-    height: 400px;
-    background-color: red;
+    background-color: green;
     margin: 60px auto;
     text-align: center;
 }
@@ -41,4 +40,15 @@ div{
 
 h1{
     color: red;
+    margin: 60px;
+}
+
+p{
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
 }
